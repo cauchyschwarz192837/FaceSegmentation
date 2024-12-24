@@ -10,3 +10,5 @@ This is an algorithm that attempts to segment a 3D model of a human face by comp
 4. Import .ply file into Blender, add new Material, and set Base Color to Color Attribute to view in Render mode
 5. Run extractcolors.py on your desired .ply file
 6. Run createPDs.py on your desired .ply files and reference .obj file
+
+![Alt text](./images/IMG-20241211-WA0019.jpg)
