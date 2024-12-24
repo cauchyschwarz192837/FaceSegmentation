@@ -1,6 +1,6 @@
 # Topological Data Analysis Final Project (CS434)
 
-This is an algorithm that attempts to segment a 3D model of a human face by comparing vertex normals and mean and Gaussian curvature at each vertex (work in progress). 
+This is an algorithm that attempts to segment a 3D model of a human face by comparing vertex normals and mean and Gaussian curvature at each vertex (work in progress). Please see Report.pdf in this repo for an explanation of project background.
 
 ## Getting started
 
